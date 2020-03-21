@@ -1,0 +1,10 @@
+# ru.nsu.g.amaseevskii.calc.Comment
+pop ru.nsu.g.amaseevskii.calc.Pop
+push ru.nsu.g.amaseevskii.calc.Push
++ ru.nsu.g.amaseevskii.calc.Add
+- ru.nsu.g.amaseevskii.calc.Subtract
+* ru.nsu.g.amaseevskii.calc.Multiply
+/ ru.nsu.g.amaseevskii.calc.Divide
+sqrt ru.nsu.g.amaseevskii.calc.Sqrt
+print ru.nsu.g.amaseevskii.calc.Print
+define ru.nsu.g.amaseevskii.calc.Define

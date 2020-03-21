@@ -1,0 +1,20 @@
+DEFINE A 9
+PUSH A
+SQRT
+PUSH 5.8
+-
+SQRT #Just checking exceptions
+PUSH 0
+/ #Same here
+POP
+POP
+PRINT PUSH 15 PRINT #Checking both exception and work
+DEFINE 5.2 961.61 #Exception
+push 27.3
+*
+push 27.3
+/
+push 83.2
++
+print
+kol
