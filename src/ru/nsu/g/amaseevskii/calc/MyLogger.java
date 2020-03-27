@@ -9,6 +9,7 @@ import java.util.logging.SimpleFormatter;
 class MyLogger {
     static Logger myLogger = Logger.getLogger(MyLogger.class.getName());
     static FileHandler fh;
+
     static void setLogger() {
         try {
             fh = new FileHandler("CalcLog.txt");

@@ -12,10 +12,10 @@ class Sqrt implements Operation {
         Double a = context.numbers.numberStack.pop();
         if (a < 0) {
             context.numbers.numberStack.push(a);
-            throw new SqrtException("Square root of negative number", 6);
+            throw new SqrtException("Square root of negative number ", 6, a);
         }
         Double root = sqrt(a);
         context.numbers.numberStack.push(root);
-        myLogger.info("sqrt("+a+") "+" completed successfully. "+root+" pushed to stack.\n");
+        myLogger.info("sqrt(" + a + ") " + " completed successfully. " + root + " pushed to stack.\n");
     }
 }

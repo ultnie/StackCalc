@@ -11,12 +11,12 @@ public class Main {
         MyLogger.setLogger();
         Context context = new Context();
         BufferedReader br = openReader(args);
-        OperationFactory factory = new OperationFactory();
+        Calc calc = new Calc();
         for (; ; ) {
             context.splitline = readLine(br);
             if (context.splitline.size() == 0)
                 break;
-            factory.getOperation(context);
+            calc.doNextOperation(context);
         }
         try {
             br.close();

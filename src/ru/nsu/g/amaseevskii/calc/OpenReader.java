@@ -6,16 +6,15 @@ import java.io.FileNotFoundException;
 import java.io.InputStreamReader;
 
 class OpenReader {
-    static BufferedReader openReader(String[] args){
+    static BufferedReader openReader(String[] args) {
         BufferedReader br = null;
-        if (args.length!=0){
+        if (args.length != 0) {
             try {
                 br = new BufferedReader(new InputStreamReader(new FileInputStream(args[0])));
             } catch (FileNotFoundException e) {
                 e.printStackTrace();
             }
-        }
-        else {
+        } else {
             br = new BufferedReader(new InputStreamReader(System.in));
         }
         return br;

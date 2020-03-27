@@ -1,160 +1,166 @@
-Mar 21, 2020 4:21:09 AM ru.nsu.g.amaseevskii.calc.OperationFactory confmap
+Mar 28, 2020 12:27:33 AM ru.nsu.g.amaseevskii.calc.OperationFactory confmap
 INFO: Config file read
 
-Mar 21, 2020 4:21:09 AM ru.nsu.g.amaseevskii.calc.Define operation
+Mar 28, 2020 12:27:33 AM ru.nsu.g.amaseevskii.calc.Define operation
 INFO: Starting Define.operation
 
-Mar 21, 2020 4:21:09 AM ru.nsu.g.amaseevskii.calc.Define operation
+Mar 28, 2020 12:27:33 AM ru.nsu.g.amaseevskii.calc.Define operation
 INFO: A is now defined as 9
 
-Mar 21, 2020 4:21:09 AM ru.nsu.g.amaseevskii.calc.Push operation
+Mar 28, 2020 12:27:33 AM ru.nsu.g.amaseevskii.calc.Push operation
 INFO: Starting Push.operation
 
-Mar 21, 2020 4:21:09 AM ru.nsu.g.amaseevskii.calc.Push operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Push operation
 INFO: 9.0 successfully pushed to stack
 
-Mar 21, 2020 4:21:09 AM ru.nsu.g.amaseevskii.calc.Sqrt operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Sqrt operation
 INFO: Starting Sqrt.operation
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Sqrt operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Sqrt operation
 INFO: sqrt(9.0)  completed successfully. 3.0 pushed to stack.
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Push operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Push operation
 INFO: Starting Push.operation
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Push operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Push operation
 INFO: 5.8 successfully pushed to stack
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Subtract operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Subtract operation
 INFO: Starting Subtract.operation
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Subtract operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Subtract operation
 INFO: 3.0 - 5.8 completed successfully. -2.8 pushed to stack.
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Sqrt operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Sqrt operation
 INFO: Starting Sqrt.operation
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.SqrtException <init>
-SEVERE: Square root of negative number
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Calc doNextOperation
+SEVERE: ru.nsu.g.amaseevskii.calc.SqrtException
+Square root of negative number 
 Error code: 6
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Comment operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Comment operation
 INFO: Starting Comment.operation
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Comment operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Comment operation
 INFO: # Just checking exceptions 
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Push operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Push operation
 INFO: Starting Push.operation
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Push operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Push operation
 INFO: 0.0 successfully pushed to stack
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Divide operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Divide operation
 INFO: Starting Divide.operation
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.DivideException <init>
-SEVERE: Division by zero
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Calc doNextOperation
+SEVERE: ru.nsu.g.amaseevskii.calc.DivideException
+Division by zero
 Error code: 4
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Comment operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Comment operation
 INFO: Starting Comment.operation
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Comment operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Comment operation
 INFO: # Same here 
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Pop operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Pop operation
 INFO: Starting Pop.operation
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Pop operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Pop operation
 INFO: 0.0 successfully pulled out of stack.
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Pop operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Pop operation
 INFO: Starting Pop.operation
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Pop operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Pop operation
 INFO: -2.8 successfully pulled out of stack.
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Print operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Print operation
 INFO: Starting Print.operation
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.MyEmptyStackException <init>
-SEVERE: null
-Error code: 0
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Calc doNextOperation
+SEVERE: ru.nsu.g.amaseevskii.calc.MyEmptyStackException
+Not enough elements in stack for operation
+Error code: 1
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Push operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Push operation
 INFO: Starting Push.operation
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Push operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Push operation
 INFO: 15.0 successfully pushed to stack
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Print operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Print operation
 INFO: Starting Print.operation
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Print operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Print operation
 INFO: 15.0 printed to console
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Comment operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Comment operation
 INFO: Starting Comment.operation
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Comment operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Comment operation
 INFO: # Checking both exception and work 
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Define operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Define operation
 INFO: Starting Define.operation
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.DefineException <init>
-SEVERE: Can you not try to redefine numbers in a calculator? Would appreciate it.
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Calc doNextOperation
+SEVERE: ru.nsu.g.amaseevskii.calc.DefineException
+Can you not try to redefine numbers in a calculator? Would appreciate it.
 Error code: 2
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Comment operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Comment operation
 INFO: Starting Comment.operation
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Comment operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Comment operation
 INFO: # Exception 
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Push operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Push operation
 INFO: Starting Push.operation
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Push operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Push operation
 INFO: 27.3 successfully pushed to stack
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Multiply operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Multiply operation
 INFO: Starting Multiply.operation
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Multiply operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Multiply operation
 INFO: 15.0*27.3 operation completed successfully. 409.5 pushed to stack.
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Push operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Push operation
 INFO: Starting Push.operation
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Push operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Push operation
 INFO: 27.3 successfully pushed to stack
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Divide operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Divide operation
 INFO: Starting Divide.operation
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Divide operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Divide operation
 INFO: 409.5/27.3 operation is completed successfully. 15.0 pushed to stack.
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Push operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Push operation
 INFO: Starting Push.operation
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Push operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Push operation
 INFO: 83.2 successfully pushed to stack
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Add operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Add operation
 INFO: Starting Add.operation
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Add operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Add operation
 INFO: 15.0 + 83.2 operation completed successfully. 98.2 pushed to stack.
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Print operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Print operation
 INFO: Starting Print.operation
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.Print operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Print operation
 INFO: 98.2 printed to console
 
-Mar 21, 2020 4:21:10 AM ru.nsu.g.amaseevskii.calc.OperationFactory getOperation
-SEVERE: There's no kol operation
+Mar 28, 2020 12:27:34 AM ru.nsu.g.amaseevskii.calc.Calc doNextOperation
+SEVERE: ru.nsu.g.amaseevskii.calc.NoSuchOpeartionException
+There's no kol operation
+Error code: 7
 

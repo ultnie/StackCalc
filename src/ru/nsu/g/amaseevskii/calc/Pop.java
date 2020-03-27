@@ -2,7 +2,7 @@ package ru.nsu.g.amaseevskii.calc;
 
 import static ru.nsu.g.amaseevskii.calc.MyLogger.myLogger;
 
-class Pop implements Operation{
+class Pop implements Operation {
 
     @Override
     public void operation(Context context) throws MyEmptyStackException {

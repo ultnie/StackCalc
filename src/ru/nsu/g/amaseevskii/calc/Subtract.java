@@ -9,13 +9,13 @@ class Subtract implements Operation {
         if (context.numbers.numberStack.empty())
             throw new MyEmptyStackException();
         Double a = context.numbers.numberStack.pop();
-        if (context.numbers.numberStack.empty()){
+        if (context.numbers.numberStack.empty()) {
             context.numbers.numberStack.push(a);
             throw new MyEmptyStackException();
         }
         Double b = context.numbers.numberStack.pop();
-        Double sum = b-a;
+        Double sum = b - a;
         context.numbers.numberStack.push(sum);
-        myLogger.info(b+" - "+a+" completed successfully. "+sum+" pushed to stack.\n");
+        myLogger.info(b + " - " + a + " completed successfully. " + sum + " pushed to stack.\n");
     }
 }

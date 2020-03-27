@@ -1,11 +1,11 @@
 package ru.nsu.g.amaseevskii.calc;
 
-import static ru.nsu.g.amaseevskii.calc.MyLogger.myLogger;
-
 class SqrtException extends MyException {
-    SqrtException (String message, int num){
-        myLogger.severe(message+"\nError code: "+num+"\n");
-        this.message=message;
-        this.num=num;
+    private double negNum;
+
+    SqrtException(String message, int num, double a) {
+        this.message = message;
+        this.num = num;
+        this.negNum = a;
     }
 }

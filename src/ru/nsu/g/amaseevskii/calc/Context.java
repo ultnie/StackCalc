@@ -6,6 +6,6 @@ import java.util.List;
 class Context {
     List<String> splitline = new LinkedList<>();
     NumberStack numbers = new NumberStack();
-    DefinedVariables vars= new DefinedVariables();
+    DefinedVariables vars = new DefinedVariables();
     int counter = 0;
 }

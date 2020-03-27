@@ -20,6 +20,6 @@ class Divide implements Operation {
         Double b = context.numbers.numberStack.pop();
         Double div = b / a;
         context.numbers.numberStack.push(div);
-        myLogger.info(b + "/" + a + " operation is completed successfully. "+div+" pushed to stack.\n");
+        myLogger.info(b + "/" + a + " operation is completed successfully. " + div + " pushed to stack.\n");
     }
 }

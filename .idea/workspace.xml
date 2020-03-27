@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cb05003-b4ac-4b62-87f2-81b89dbe2341" name="Default Changelist" comment="" />
+    <list default="true" id="3cb05003-b4ac-4b62-87f2-81b89dbe2341" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/Calc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/ExceptionsTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/NoSuchOpeartionException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/ExceptionsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/NoSuchOpeartionException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalcLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CalcLog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/Define.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/Define.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/DefineException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/DefineException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/DivideException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/DivideException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/MyEmptyStackException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/MyEmptyStackException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/MyLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/MyLogger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/OpenReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/OpenReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/OperationFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/OperationFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/OperationsTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/OperationsTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/Push.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/Push.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/PushException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/PushException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/Sqrt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/Sqrt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/SqrtException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Calc/ru/nsu/g/amaseevskii/calc/SqrtException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Define.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Define.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/DefineException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/DefineException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Divide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Divide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/DivideException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/DivideException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/IsNumeric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/IsNumeric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Multiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Multiply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/MyEmptyStackException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/MyEmptyStackException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/MyLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/MyLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/OpenReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/OpenReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/OperationFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/OperationFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/OperationsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/OperationsTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Pop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Pop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Print.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Push.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Push.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/PushException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/PushException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/ReadLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/ReadLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Sqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Sqrt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/SqrtException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/SqrtException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Subtract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Subtract.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,75 +56,80 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/OperationFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/DefineException.java">
+        <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/NumberStack.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Comment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CalcLog.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-315" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Divide.java">
+        <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/NoSuchOpeartionException.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/MyEmptyStackException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/MyLogger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Multiply.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+            <state relative-caret-position="300">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/PushException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Sqrt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="90" selection-start-line="18" selection-start-column="90" selection-end-line="18" selection-end-column="90" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/DefinedVariables.java">
+        <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/MyException.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,19 +138,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/SqrtException.java">
+        <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/IsNumeric.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+            <state relative-caret-position="165">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Subtract.java">
+        <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/ExceptionsTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="84" selection-start-line="18" selection-start-column="84" selection-end-line="18" selection-end-column="84" />
+            <state relative-caret-position="431">
+              <caret line="94" column="1" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -111,10 +164,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Singleton" />
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -124,45 +180,48 @@
         <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/OpenFile.java" />
         <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/GetOperation.java" />
         <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Stack.java" />
-        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/NumberStack.java" />
-        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/DefinedVariables.java" />
-        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/OpenReader.java" />
         <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/CloseReader.java" />
-        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/MyException.java" />
         <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/MyPrintException.java" />
         <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/MultiplyException.java" />
         <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/PopException.java" />
         <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/SubtractException.java" />
         <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/conf" />
-        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Operation.java" />
         <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/AddException.java" />
         <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/EmptyStackException.java" />
-        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/IsNumeric.java" />
-        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Context.java" />
         <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/FactoryException.java" />
         <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/OperationTest.java" />
         <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/UnitTests.java" />
-        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/OperationsTests.java" />
-        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/MyLogger.java" />
-        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Main.java" />
-        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/ReadLine.java" />
         <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Add.java" />
-        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Define.java" />
-        <option value="$PROJECT_DIR$/example.txt" />
-        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/OperationFactory.java" />
-        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/DivideException.java" />
-        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Multiply.java" />
-        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/MyEmptyStackException.java" />
-        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Pop.java" />
-        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Print.java" />
-        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Push.java" />
-        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/PushException.java" />
-        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Sqrt.java" />
-        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/SqrtException.java" />
-        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Subtract.java" />
-        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/DefineException.java" />
         <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Comment.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Context.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/DefinedVariables.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/DefineException.java" />
         <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Divide.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/DivideException.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Calc.java" />
+        <option value="$PROJECT_DIR$/example.txt" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Define.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Subtract.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/SqrtException.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Sqrt.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/ReadLine.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/PushException.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Push.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Print.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Pop.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/OperationsTests.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Operation.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/OpenReader.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/NumberStack.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/NoSuchOpeartionException.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/MyLogger.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/MyException.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/MyEmptyStackException.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Multiply.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Main.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/IsNumeric.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/ExceptionsTests.java" />
+        <option value="$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/OperationFactory.java" />
       </list>
     </option>
   </component>
@@ -173,9 +232,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="905" />
+    <option name="x" value="995" />
     <option name="y" value="27" />
-    <option name="width" value="1015" />
+    <option name="width" value="925" />
     <option name="height" value="1053" />
   </component>
   <component name="ProjectView">
@@ -184,12 +243,18 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Calc" type="b2602c69:ProjectViewProjectNode" />
               <item name="Calc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Calc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Calc" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Calc" type="b2602c69:ProjectViewProjectNode" />
@@ -206,7 +271,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -216,12 +280,12 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584739268223" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585330266889" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/example.txt" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -265,7 +329,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperationsTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExceptionsTests" type="JUnit" factoryName="JUnit">
       <module name="Calc" />
       <extension name="coverage">
         <pattern>
@@ -274,13 +338,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ru.nsu.g.amaseevskii.calc" />
-      <option name="MAIN_CLASS_NAME" value="ru.nsu.g.amaseevskii.calc.OperationsTests" />
+      <option name="MAIN_CLASS_NAME" value="ru.nsu.g.amaseevskii.calc.ExceptionsTests" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperationsTests.PushTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExceptionsTests.defineException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Calc" />
       <extension name="coverage">
         <pattern>
@@ -289,14 +355,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ru.nsu.g.amaseevskii.calc" />
-      <option name="MAIN_CLASS_NAME" value="ru.nsu.g.amaseevskii.calc.OperationsTests" />
-      <option name="METHOD_NAME" value="PushTest" />
+      <option name="MAIN_CLASS_NAME" value="ru.nsu.g.amaseevskii.calc.ExceptionsTests" />
+      <option name="METHOD_NAME" value="defineException" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperationsTests.SqrtTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExceptionsTests.divideException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Calc" />
       <extension name="coverage">
         <pattern>
@@ -305,14 +371,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ru.nsu.g.amaseevskii.calc" />
-      <option name="MAIN_CLASS_NAME" value="ru.nsu.g.amaseevskii.calc.OperationsTests" />
-      <option name="METHOD_NAME" value="SqrtTest" />
+      <option name="MAIN_CLASS_NAME" value="ru.nsu.g.amaseevskii.calc.ExceptionsTests" />
+      <option name="METHOD_NAME" value="divideException" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperationsTests.SubtractTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExceptionsTests.pushException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Calc" />
       <extension name="coverage">
         <pattern>
@@ -321,8 +387,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ru.nsu.g.amaseevskii.calc" />
-      <option name="MAIN_CLASS_NAME" value="ru.nsu.g.amaseevskii.calc.OperationsTests" />
-      <option name="METHOD_NAME" value="SubtractTest" />
+      <option name="MAIN_CLASS_NAME" value="ru.nsu.g.amaseevskii.calc.ExceptionsTests" />
+      <option name="METHOD_NAME" value="pushException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionsTests.sqrtExceptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Calc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.nsu.g.amaseevskii.calc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.nsu.g.amaseevskii.calc" />
+      <option name="MAIN_CLASS_NAME" value="ru.nsu.g.amaseevskii.calc.ExceptionsTests" />
+      <option name="METHOD_NAME" value="sqrtExceptionTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -330,18 +412,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.OperationsTests" />
-      <item itemvalue="JUnit.OperationsTests.PushTest" />
-      <item itemvalue="JUnit.OperationsTests.SqrtTest" />
-      <item itemvalue="JUnit.OperationsTests.SubtractTest" />
+      <item itemvalue="JUnit.ExceptionsTests" />
+      <item itemvalue="JUnit.ExceptionsTests.defineException" />
+      <item itemvalue="JUnit.ExceptionsTests.divideException" />
+      <item itemvalue="JUnit.ExceptionsTests.pushException" />
+      <item itemvalue="JUnit.ExceptionsTests.sqrtExceptionTest" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.OperationsTests" />
-        <item itemvalue="JUnit.OperationsTests.SubtractTest" />
-        <item itemvalue="JUnit.OperationsTests.SqrtTest" />
-        <item itemvalue="JUnit.OperationsTests.PushTest" />
+        <item itemvalue="JUnit.ExceptionsTests.sqrtExceptionTest" />
+        <item itemvalue="JUnit.ExceptionsTests.pushException" />
+        <item itemvalue="JUnit.ExceptionsTests.divideException" />
+        <item itemvalue="JUnit.ExceptionsTests.defineException" />
       </list>
     </recent_temporary>
   </component>
@@ -360,48 +443,52 @@
       <workItem from="1584094458639" duration="731000" />
       <workItem from="1584157782129" duration="4940000" />
       <workItem from="1584698052381" duration="39883000" />
+      <workItem from="1584761500846" duration="1252000" />
+      <workItem from="1584797507146" duration="71000" />
+      <workItem from="1585313982497" duration="7747000" />
+      <workItem from="1585324582841" duration="5687000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OperationsTests - 2020.03.21 at 01h 01m 18s.xml">
-      <configuration name="OperationsTests" configurationId="JUnit" />
+    <history-entry file="ExceptionsTests_NoSuchOperationExceptionTest - 2020.03.28 at 00h 00m 51s.xml">
+      <configuration name="ExceptionsTests.NoSuchOperationExceptionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OperationsTests - 2020.03.21 at 01h 06m 49s.xml">
-      <configuration name="OperationsTests" configurationId="JUnit" />
+    <history-entry file="ExceptionsTests_NoSuchOperationExceptionTest - 2020.03.28 at 00h 01m 05s.xml">
+      <configuration name="ExceptionsTests.NoSuchOperationExceptionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OperationsTests_SqrtTest - 2020.03.21 at 01h 06m 58s.xml">
-      <configuration name="OperationsTests.SqrtTest" configurationId="JUnit" />
+    <history-entry file="ExceptionsTests - 2020.03.28 at 00h 07m 44s.xml">
+      <configuration name="ExceptionsTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OperationsTests - 2020.03.21 at 01h 07m 05s.xml">
-      <configuration name="OperationsTests" configurationId="JUnit" />
+    <history-entry file="ExceptionsTests_defineException - 2020.03.28 at 00h 11m 47s.xml">
+      <configuration name="ExceptionsTests.defineException" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OperationsTests - 2020.03.21 at 01h 07m 15s.xml">
-      <configuration name="OperationsTests" configurationId="JUnit" />
+    <history-entry file="ExceptionsTests_defineException - 2020.03.28 at 00h 12m 07s.xml">
+      <configuration name="ExceptionsTests.defineException" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OperationsTests_SubtractTest - 2020.03.21 at 01h 11m 17s.xml">
-      <configuration name="OperationsTests.SubtractTest" configurationId="JUnit" />
+    <history-entry file="ExceptionsTests_divideException - 2020.03.28 at 00h 12m 11s.xml">
+      <configuration name="ExceptionsTests.divideException" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OperationsTests_SubtractTest - 2020.03.21 at 01h 11m 28s.xml">
-      <configuration name="OperationsTests.SubtractTest" configurationId="JUnit" />
+    <history-entry file="ExceptionsTests_pushException - 2020.03.28 at 00h 12m 37s.xml">
+      <configuration name="ExceptionsTests.pushException" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OperationsTests - 2020.03.21 at 01h 11m 30s.xml">
-      <configuration name="OperationsTests" configurationId="JUnit" />
+    <history-entry file="ExceptionsTests_sqrtExceptionTest - 2020.03.28 at 00h 15m 27s.xml">
+      <configuration name="ExceptionsTests.sqrtExceptionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OperationsTests - 2020.03.21 at 01h 13m 59s.xml">
-      <configuration name="OperationsTests" configurationId="JUnit" />
+    <history-entry file="ExceptionsTests - 2020.03.28 at 00h 15m 42s.xml">
+      <configuration name="ExceptionsTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OperationsTests - 2020.03.21 at 01h 43m 35s.xml">
-      <configuration name="OperationsTests" configurationId="JUnit" />
+    <history-entry file="ExceptionsTests - 2020.03.28 at 00h 27m 23s.xml">
+      <configuration name="ExceptionsTests" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65742000" />
+    <option name="totallyTimeSpent" value="80499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="27" width="1850" height="1053" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16906874" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27439025" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -412,8 +499,8 @@
       <window_info anchor="bottom" id="Duplicate detector" order="0" weight="0.3297062" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.3297062" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.34167573" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.39934713" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.37513632" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.40458015" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
@@ -422,7 +509,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.3297062" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3293348" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -441,94 +528,168 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Main.java</url>
-          <line>20</line>
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Calc.java</url>
+          <line>8</line>
           <properties />
-          <option name="timeStamp" value="266" />
+          <option name="timeStamp" value="308" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Main.java</url>
-          <line>21</line>
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Calc.java</url>
+          <line>10</line>
           <properties />
-          <option name="timeStamp" value="267" />
+          <option name="timeStamp" value="309" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Main.java</url>
-          <line>22</line>
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Calc.java</url>
+          <line>9</line>
           <properties />
-          <option name="timeStamp" value="268" />
+          <option name="timeStamp" value="310" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Main.java</url>
-          <line>23</line>
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Calc.java</url>
+          <line>12</line>
           <properties />
-          <option name="timeStamp" value="269" />
+          <option name="timeStamp" value="311" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Main.java</url>
-          <line>24</line>
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Calc.java</url>
+          <line>11</line>
           <properties />
-          <option name="timeStamp" value="270" />
+          <option name="timeStamp" value="312" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Main.java</url>
-          <line>25</line>
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Calc.java</url>
+          <line>13</line>
           <properties />
-          <option name="timeStamp" value="273" />
+          <option name="timeStamp" value="313" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Calc.java</url>
           <line>14</line>
           <properties />
-          <option name="timeStamp" value="274" />
+          <option name="timeStamp" value="314" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Calc.java</url>
           <line>15</line>
           <properties />
-          <option name="timeStamp" value="275" />
+          <option name="timeStamp" value="315" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Calc.java</url>
           <line>16</line>
           <properties />
-          <option name="timeStamp" value="276" />
+          <option name="timeStamp" value="316" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Main.java</url>
-          <line>17</line>
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/IsNumeric.java</url>
+          <line>4</line>
           <properties />
-          <option name="timeStamp" value="277" />
+          <option name="timeStamp" value="374" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/ReadLine.java</url>
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/IsNumeric.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="375" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/IsNumeric.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="376" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/IsNumeric.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="377" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/IsNumeric.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="378" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/IsNumeric.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="379" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/IsNumeric.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="380" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Push.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="383" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Push.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="384" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Push.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="385" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Push.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="386" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Push.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="387" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Push.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Push.java</url>
           <line>16</line>
           <properties />
-          <option name="timeStamp" value="284" />
+          <option name="timeStamp" value="389" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/ReadLine.java</url>
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Push.java</url>
           <line>17</line>
           <properties />
-          <option name="timeStamp" value="285" />
+          <option name="timeStamp" value="390" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/ReadLine.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="286" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/ReadLine.java</url>
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Push.java</url>
           <line>18</line>
           <properties />
-          <option name="timeStamp" value="287" />
+          <option name="timeStamp" value="391" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/ReadLine.java</url>
-          <line>20</line>
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Push.java</url>
+          <line>19</line>
           <properties />
-          <option name="timeStamp" value="288" />
+          <option name="timeStamp" value="392" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/IsNumeric.java</url>
+          <line>3</line>
+          <properties class="ru.nsu.g.amaseevskii.calc.IsNumeric" method="isNumeric">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="373" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -536,48 +697,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/GetOperation.java" />
     <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/CloseReader.java" />
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/SubtractException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/PopException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/MultiplyException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/MyPrintException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/sinleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Operation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/SubtractException.java" />
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/PopException.java" />
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/MultiplyException.java" />
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/MyPrintException.java" />
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/sinleton.java" />
     <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/conf">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -592,53 +716,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/FactoryException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/OperationsTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="155" column="40" lean-forward="true" selection-start-line="155" selection-start-column="40" selection-end-line="155" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/FactoryException.java" />
     <entry file="file://$PROJECT_DIR$/Calc.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Log.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/ReadLine.java">
+    <entry file="file://$PROJECT_DIR$/Log.txt" />
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Calc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Context.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -649,109 +735,102 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Define.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Context.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="127" selection-start-line="18" selection-start-column="127" selection-end-line="18" selection-end-column="127" />
+        <state relative-caret-position="150">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Comment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/DefinedVariables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Divide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/DefineException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/DivideException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/IsNumeric.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/MyEmptyStackException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/MyException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/MyLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/NumberStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/OpenReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/OperationFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="42" column="117" selection-start-line="42" selection-start-column="117" selection-end-line="42" selection-end-column="117" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Pop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Print.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Push.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Define.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalcLog.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Subtract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/SqrtException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Sqrt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/ReadLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -760,75 +839,141 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/PushException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Sqrt.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Push.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="90" selection-start-line="18" selection-start-column="90" selection-end-line="18" selection-end-column="90" />
+        <state relative-caret-position="315">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/SqrtException.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Print.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+        <state relative-caret-position="210">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Subtract.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Pop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="84" selection-start-line="18" selection-start-column="84" selection-end-line="18" selection-end-column="84" />
+        <state relative-caret-position="210">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/DefinedVariables.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/OperationsTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="431">
+          <caret line="166" column="1" selection-start-line="166" selection-start-column="1" selection-end-line="166" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/DefineException.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Operation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/OpenReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/NumberStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Comment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CalcLog.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-315" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Divide.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/NoSuchOpeartionException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/MyLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/MyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/MyEmptyStackException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Multiply.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        <state relative-caret-position="300">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/IsNumeric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/ExceptionsTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="94" column="1" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/nsu/g/amaseevskii/calc/OperationFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -40,7 +40,7 @@ class ReadLine {
                 temp = new StringBuilder();
             }
         }
-        if(temp.length()!=0)
+        if (temp.length() != 0)
             splitline.add(temp.toString());
         return splitline;
     }

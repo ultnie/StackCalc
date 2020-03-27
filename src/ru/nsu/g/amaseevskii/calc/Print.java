@@ -10,6 +10,6 @@ class Print implements Operation {
             throw new MyEmptyStackException();
         Double a = context.numbers.numberStack.peek();
         System.out.println(a);
-        myLogger.info(a+ " printed to console\n");
+        myLogger.info(a + " printed to console\n");
     }
 }

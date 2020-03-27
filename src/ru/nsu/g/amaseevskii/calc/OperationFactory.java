@@ -28,19 +28,15 @@ class OperationFactory {
         return confmap;
     }
 
-    void getOperation(Context context) {
-
-        for (context.counter = 0; context.counter < context.splitline.size(); context.counter++)
-            if (confmap.containsKey(context.splitline.get(context.counter).toLowerCase())) {
-                try {
-                    ((Operation) Class.forName(confmap.get(context.splitline.get(context.counter).toLowerCase())).newInstance()).operation(context);
-                } catch (MyException e) {
-                    System.out.println(e.message);
-                    System.out.println("Error code: " + e.num);
-                } catch (IllegalAccessException | InstantiationException | ClassNotFoundException e) {
-                    e.printStackTrace();
-                }
-            } else myLogger.severe("There's no "+ context.splitline.get(context.counter).toLowerCase() +" operation\n");
-        context.splitline.clear();
+    Object getOperation(Context context) throws MyException {
+        Object operation = null;
+        try {
+            operation = Class.forName(confmap.get(context.splitline.get(context.counter).toLowerCase())).newInstance();
+        } catch (InstantiationException | IllegalAccessException e) {
+            e.printStackTrace();
+        } catch (ClassNotFoundException | NullPointerException e) {
+            throw new NoSuchOpeartionException("There's no " + context.splitline.get(context.counter) + " operation", 7);
+        }
+        return operation;
     }
 }

@@ -16,6 +16,6 @@ class Multiply implements Operation {
         Double b = context.numbers.numberStack.pop();
         Double mul = b * a;
         context.numbers.numberStack.push(mul);
-        myLogger.info(b + "*" + a +" operation completed successfully. "+mul+" pushed to stack.\n");
+        myLogger.info(b + "*" + a + " operation completed successfully. " + mul + " pushed to stack.\n");
     }
 }
